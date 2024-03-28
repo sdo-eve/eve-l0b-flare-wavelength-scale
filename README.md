@@ -1,2 +1,2 @@
-# eve-wavelength-scale
+# eve-l0b-flare-wavelength-scale
 Improving the Spectral Resolution and Wavelength Scale of Solar Flares Using SDO/EVE MEGS-A Level 0B Image Data
